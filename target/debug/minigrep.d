@@ -1,0 +1,1 @@
+/home/waleed/Desktop/Embedded_Linux/08-Rust/01-Exercises/07-Exercise07/minigrep/target/debug/minigrep: /home/waleed/Desktop/Embedded_Linux/08-Rust/01-Exercises/07-Exercise07/minigrep/src/lib.rs /home/waleed/Desktop/Embedded_Linux/08-Rust/01-Exercises/07-Exercise07/minigrep/src/main.rs
