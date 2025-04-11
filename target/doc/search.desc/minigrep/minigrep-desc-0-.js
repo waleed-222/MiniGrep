@@ -1,0 +1,1 @@
+searchState.loadedDescShard("minigrep", 0, "Minigrep Library\nHolds the configuration for the search operation.\nConstructs a new <code>Config</code> from the given iterator of …\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nRuns the main logic of the application:\nPerforms a case-sensitive search.\nPerforms a case-insensitive search.")

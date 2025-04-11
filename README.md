@@ -103,6 +103,29 @@ src/
 
     Output: Prints the matching lines to standard output.
 
+📚 Generating & Viewing Documentation
+
+MiniGrep includes inline documentation using Rustdoc.
+To build the documentation:
+
+```bash
+cargo doc --open
+```
+
+This command will:
+
+    Generate HTML documentation from /// and //! comments.
+
+    Open it automatically in your default web browser.
+
+If you only want to generate it without opening:
+
+```bash
+cargo doc
+```
+
+The docs will be located at: target/doc/minigrep/index.html
+
 🧪 Running Tests
 
 To run the included unit tests:
@@ -115,6 +138,13 @@ cargo test
 
 This project is open source and available under the MIT License.
 
+📢 Shared on LinkedIn
+
+I shared a walkthrough and screenshots of MiniGrep in action on LinkedIn — check it out here:
+
+🔗 LinkedIn Post: [MiniGrep Post](https://www.linkedin.com/posts/waleed-ebrahem-46624a1b2_rustlang-rustacean-cli-activity-7316429529688752129-eWKh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGDgg4BYvv4VfI2y7hoaIYWK1CZDaNLBJI)
+
+Feel free to drop a like, comment, or share your thoughts!
 
 ✨ Credits
 
